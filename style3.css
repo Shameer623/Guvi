@@ -1,0 +1,41 @@
+header{
+    background-color: black;
+    height: 30px;
+    font-size: 25px;
+    padding-top: 10px;
+}
+.header{
+    margin-right: 260px;
+    text-decoration: none;
+    color: palevioletred;
+}
+#logo{
+    padding-left: 30px;
+    color: white;
+}
+#main{
+    height: 590px;
+    background-color:azure;
+    color:darkgreen;
+}
+#content{
+    font-size: x-large;
+    color:black;
+}
+.tech{
+    color: black;
+    font-family: cursive;
+}
+#prod{
+    display:block;
+}
+
+footer{
+    height: 30px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 25px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
